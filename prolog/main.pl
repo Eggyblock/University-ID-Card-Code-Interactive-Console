@@ -52,6 +52,7 @@ analizar_codigo(Codigo, Periodo, Categoria, Consecutivo, Par) :-
     PeriodoDigitos is Codigo // 100000,
     CategoriaDigitos is (Codigo // 1000) mod 100,
     Consecutivo is Codigo mod 1000,
+    Consecutivo >= 1,
     
     Anio is PeriodoDigitos // 10,
     Semestre is PeriodoDigitos mod 10,
