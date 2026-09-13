@@ -9,7 +9,7 @@ Repositorio para la primera práctica de la materia Lenguajes y Paradigmas de Co
 ## Información del Entorno y Versiones
 * **Paradigma Funcional (Haskell):**
    **IDE:** OnlineGDB
-   **Compilador / Motor:** GHC
+   **Compilador / Motor:** GHC Versión 9.10
 * **Paradigma Lógico (Prolog):**
    **IDE:** OnlineGDB
-  **Compilador / Motor:** SWI-Prolog compatible
+  **Compilador / Motor:** SWI-Prolog Versión 9.2.9
