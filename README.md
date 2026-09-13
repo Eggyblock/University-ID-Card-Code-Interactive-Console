@@ -13,3 +13,7 @@ Repositorio para la primera práctica de la materia Lenguajes y Paradigmas de Co
 * **Paradigma Lógico (Prolog):**
    **IDE:** OnlineGDB
   **Compilador / Motor:** SWI-Prolog Versión 9.2.9
+
+##Link video presentación
+
+https://youtu.be/m3piWFwPg04
